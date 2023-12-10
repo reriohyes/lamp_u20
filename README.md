@@ -1,7 +1,4 @@
-
-
-
-# Auto Install Lamp ubuntu server 20.04
+# Auto_Install_Lamp For ubuntu server 20.04 only
 
 
 the idea here is to create an automatic installation lamp script where it will make all the default settings to work alone and generate the root and password for your mysql
